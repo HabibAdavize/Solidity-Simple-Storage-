@@ -1,4 +1,4 @@
-const { ethers } = require("ethers"); // Use object destructuring to import ethers
+const { ethers } = require("ethers");
 const fs = require("fs-extra");
 
 async function main() {
